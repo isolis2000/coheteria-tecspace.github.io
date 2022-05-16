@@ -5,6 +5,8 @@ on:
       #- main
       #- dev
       - deployment
+    pull-request:
+      - deployment
     paths-ignore:
       - .gitignore
       - README.md
