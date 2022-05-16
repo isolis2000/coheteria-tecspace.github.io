@@ -1,3 +1,7 @@
+# 
+_posts/*.md linguist-detectable=true
+_tabs/*.md linguist-detectable=true
+
 # Set default behavior to automatically normalize line endings.
 * text=auto
 
